@@ -8,22 +8,22 @@
 
 ## Table of Contents
 
-1. [Project Overview](#project-overview)
-2. [Data Preparation](#data-preparation)
+1. [Project Overview](https://github.com/hifizhhh/Comprehensive-Business-Intelligence-Analysis-of-Brazilian-E-Commerce-Using-SQL?tab=readme-ov-file#-project-overview)
+2. [Data Preparation](https://github.com/hifizhhh/Comprehensive-Business-Intelligence-Analysis-of-Brazilian-E-Commerce-Using-SQL?tab=readme-ov-file#-data-preparation)
 
-   - [Database Construction & ERD](#database-construction--erd)
+   - [Database Construction & ERD](https://github.com/hifizhhh/Comprehensive-Business-Intelligence-Analysis-of-Brazilian-E-Commerce-Using-SQL?tab=readme-ov-file#database-construction--erd)
 
-3. [Data Analysis](#data-analysis)
+3. [Data Analysis](https://github.com/hifizhhh/Comprehensive-Business-Intelligence-Analysis-of-Brazilian-E-Commerce-Using-SQL?tab=readme-ov-file#-data-analysis)
 
-   - [Customer Activity Growth](#customer-activity-growth)
-   - [Product Category Performance](#product-category-performance)
-   - [Payment Method Trends](#payment-method-trends)
+   - [Customer Activity Growth](https://github.com/hifizhhh/Comprehensive-Business-Intelligence-Analysis-of-Brazilian-E-Commerce-Using-SQL?tab=readme-ov-file#customer-activity-growth)
+   - [Product Category Performance](https://github.com/hifizhhh/Comprehensive-Business-Intelligence-Analysis-of-Brazilian-E-Commerce-Using-SQL?tab=readme-ov-file#product-category-performance)
+   - [Payment Method Trends](https://github.com/hifizhhh/Comprehensive-Business-Intelligence-Analysis-of-Brazilian-E-Commerce-Using-SQL?tab=readme-ov-file#payment-method-trends)
 
-4. [Conclusion](#conclusion)
-5. [Tools & Environment](#tools--environment)
-6. [Business Implications](#business-implications)
-7. [Reproducibility Guide](#reproducibility-guide)
-8. [Quick Access](#quick-access)
+4. [Conclusion](https://github.com/hifizhhh/Comprehensive-Business-Intelligence-Analysis-of-Brazilian-E-Commerce-Using-SQL?tab=readme-ov-file#-conclusion)
+5. [Tools & Environment](https://github.com/hifizhhh/Comprehensive-Business-Intelligence-Analysis-of-Brazilian-E-Commerce-Using-SQL?tab=readme-ov-file#-tools--environment)
+6. [Business Implications](https://github.com/hifizhhh/Comprehensive-Business-Intelligence-Analysis-of-Brazilian-E-Commerce-Using-SQL?tab=readme-ov-file#-business-implications)
+7. [Reproducibility Guide](https://github.com/hifizhhh/Comprehensive-Business-Intelligence-Analysis-of-Brazilian-E-Commerce-Using-SQL?tab=readme-ov-file#-reproducibility-guide)
+8. [Quick Access](https://github.com/hifizhhh/Comprehensive-Business-Intelligence-Analysis-of-Brazilian-E-Commerce-Using-SQL?tab=readme-ov-file#-quick-access)
 
 ---
 
