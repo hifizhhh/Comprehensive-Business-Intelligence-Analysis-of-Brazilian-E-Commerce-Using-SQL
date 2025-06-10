@@ -1,6 +1,6 @@
 # 💰 **Comprehensive Business Intelligence Analysis of Brazilian E-Commerce Using SQL**
 
-![PostgreSQL](https://img.shields.io/badge/database-PostgreSQL-blue)
+![MySQL](https://img.shields.io/badge/database-MySQL-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/project-complete-brightgreen)
 
@@ -366,7 +366,7 @@ FOREIGN KEY (customer_zip_code_prefix) REFERENCES geolocation_dataset (geolocati
 
 </details>
 
-![ERD](asset/gambar_1_ERD.png)
+![ERD](https://i.imgur.com/HRhd2Y0.png)
 
 ---
 
@@ -713,7 +713,7 @@ Key takeaways:
 
 ## 📂 **Tools & Environment**
 
-- **PostgreSQL v14** via **pgAdmin 4**
+- **MySQL**
 - **Microsoft Excel 2019** for plotting and visualization
 - **System**: Windows 10 64-bit, 8GB RAM
 
@@ -737,9 +737,3 @@ Key takeaways:
 6. Visualize the exported tables in Excel to replicate the graphs
 
 ---
-
-## 🔗 **Quick Access**
-
-- 📁 [SQL Scripts Folder](./sql_query/)
-- 📊 [Analysis Charts (Excel)](./asset/)
-- 📸 [Entity Relationship Diagram](./asset/gambar_1_ERD.png)
