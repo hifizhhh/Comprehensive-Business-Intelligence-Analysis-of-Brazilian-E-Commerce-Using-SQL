@@ -536,9 +536,9 @@ Key findings:
 - Repeat orders peaked in 2017 and slightly declined in 2018.
 - Most users only placed one order per year, indicating low customer retention.
 
-![MAU & New Customers](asset/gambar_2_mau_x_newcust.png)
-![Repeat Orders](asset/gambar_3_repeat%20order.png)
-![Order Frequency](asset/gambar_4_freq_order.png)
+![MAU & New Customers](asset/Picture1.png)
+![Repeat Orders](asset/Picture2.png)
+![Order Frequency](asset/Picture3.png)
 
 ---
 
@@ -649,9 +649,9 @@ Highlights:
 - Leading product categories changed each year.
 - `Health_beauty` was the top revenue and most canceled category in 2018, reflecting both popularity and volatility.
 
-![Revenue](asset/gambar_5_total_revenue.png)
-![Top Product Revenue](asset/gambar_6_top.png)
-![Cancellations](asset/gambar_7_cenceled.png)
+![Revenue](asset/Picture4.png)
+![Top Product Revenue](asset/Picture5.png)
+![Cancellations](asset/Picture6.png)
 
 ---
 
