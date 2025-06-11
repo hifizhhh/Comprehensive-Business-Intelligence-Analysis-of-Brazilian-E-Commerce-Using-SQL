@@ -19,11 +19,10 @@
    - [Product Category Performance](https://github.com/hifizhhh/Comprehensive-Business-Intelligence-Analysis-of-Brazilian-E-Commerce-Using-SQL?tab=readme-ov-file#product-category-performance)
    - [Payment Method Trends](https://github.com/hifizhhh/Comprehensive-Business-Intelligence-Analysis-of-Brazilian-E-Commerce-Using-SQL?tab=readme-ov-file#payment-method-trends)
 
-4. [Conclusion](https://github.com/hifizhhh/Comprehensive-Business-Intelligence-Analysis-of-Brazilian-E-Commerce-Using-SQL?tab=readme-ov-file#-conclusion)
-5. [Tools & Environment](https://github.com/hifizhhh/Comprehensive-Business-Intelligence-Analysis-of-Brazilian-E-Commerce-Using-SQL?tab=readme-ov-file#-tools--environment)
-6. [Business Implications](https://github.com/hifizhhh/Comprehensive-Business-Intelligence-Analysis-of-Brazilian-E-Commerce-Using-SQL?tab=readme-ov-file#-business-implications)
+4. [Business Insights Summary](https://github.com/hifizhhh/Comprehensive-Business-Intelligence-Analysis-of-Brazilian-E-Commerce-Using-SQL?tab=readme-ov-file#-business-insights-summary)
+5. [Business Implications](https://github.com/hifizhhh/Comprehensive-Business-Intelligence-Analysis-of-Brazilian-E-Commerce-Using-SQL?tab=readme-ov-file#-business-implications)
+6. [Tools & Environment](https://github.com/hifizhhh/Comprehensive-Business-Intelligence-Analysis-of-Brazilian-E-Commerce-Using-SQL?tab=readme-ov-file#-tools--environment)
 7. [Reproducibility Guide](https://github.com/hifizhhh/Comprehensive-Business-Intelligence-Analysis-of-Brazilian-E-Commerce-Using-SQL?tab=readme-ov-file#-reproducibility-guide)
-8. [Quick Access](https://github.com/hifizhhh/Comprehensive-Business-Intelligence-Analysis-of-Brazilian-E-Commerce-Using-SQL?tab=readme-ov-file#-quick-access)
 
 ---
 
@@ -649,9 +648,9 @@ Highlights:
 - Leading product categories changed each year.
 - `Health_beauty` was the top revenue and most canceled category in 2018, reflecting both popularity and volatility.
 
-![Revenue](asset/Picture4.png)
-![Top Product Revenue](asset/Picture5.png)
-![Cancellations](asset/Picture6.png)
+![Revenue](asset/Picture4.jpg)
+![Top Product Revenue](asset/Picture5.jpg)
+![Cancellations](asset/Picture6.jpg)
 
 ---
 
@@ -699,15 +698,52 @@ Key takeaways:
 - Debit card usage grew significantly in 2018, likely due to promotional strategies.
 - Voucher usage spiked in 2017 and declined afterward.
 
-![Payment Methods](asset/gambar_8_tipe_pembayaran.png)
+![Payment Methods](asset/Picture7.jpg)
 
 ---
 
-## 📂 **Conclusion**
+## 📊 Business Insights Summary
 
-- **Customer Growth**: The number of active and new users increased annually, though most customers did not place repeat orders. Strategies such as loyalty programs and targeted promotions could help improve retention.
-- **Product Category Performance**: While revenue rose, top-performing categories varied, emphasizing the need for trend analysis. The dual nature of `health_beauty` in 2018 suggests high demand but also delivery/expectation mismatches.
-- **Payment Preferences**: Credit cards remain the most preferred payment method, with emerging growth in debit cards, suggesting that payment promotions may influence consumer behavior.
+### 🧍‍♂️ Customer Growth & Retention
+
+- The number of **new and active customers** grew significantly year over year:
+  - New customers: 326 (2016) → 43,708 (2017) → 52,062 (2018)
+  - Average Monthly Active Users (MUA) also increased.
+- However, **repeat customers remained relatively low**:
+  - Only 3 in 2016, peaking at 1,256 in 2017, then slightly declining to 1,167 in 2018.
+- This suggests a **low retention rate**, highlighting the need for:
+  - Loyalty programs
+  - Post-purchase engagement
+  - Targeted re-marketing campaigns
+
+### 🛒 Product Category Performance
+
+- **Total revenue** rose dramatically:
+  - From **46,682** in 2016 to over **8.45 million** in 2018.
+- Top-selling product categories shifted each year:
+  - 2016: `moveis_decoracao`
+  - 2017: `cama_mesa_banho`
+  - 2018: `beleza_saude`
+- Notably, `beleza_saude` also had the **highest cancellation rate** in 2018, indicating:
+  - Possible fulfillment or customer satisfaction issues
+- Emphasizes the importance of:
+  - Continuous trend analysis
+  - Quality assurance on high-performing categories
+
+### 💳 Payment Preferences
+
+- **Credit card** remained the dominant payment method throughout all years.
+- **Debit card usage increased significantly** in 2018 (from 2 in 2016 to 1,105).
+- **Boleto and voucher** usage also showed stability and slight growth.
+- Suggests that **payment method promotions** and **payment flexibility** could influence purchasing behavior positively.
+
+---
+
+## 📂 **Business Implications**
+
+- **Capitalize on strong new customer growth** by enhancing onboarding experiences and implementing loyalty or retention strategies to increase repeat purchases.
+- **Monitor top-performing product categories**—such as `beleza_saude`—for operational issues like high cancellation rates, and ensure alignment between customer expectations and delivery quality.
+- **Diversify payment method promotions** by encouraging the use of rising channels such as debit cards or digital wallets, which showed growth in 2018, to increase customer convenience and conversion rates.
 
 ---
 
@@ -716,14 +752,6 @@ Key takeaways:
 - **MySQL**
 - **Microsoft Excel 2019** for plotting and visualization
 - **System**: Windows 10 64-bit, 8GB RAM
-
----
-
-## 📂 **Business Implications**
-
-- Leverage strong growth in new customer acquisition by improving onboarding and engagement campaigns.
-- Closely monitor top-performing categories for fulfillment issues, especially high-return items like `health_beauty`.
-- Expand promotional efforts toward underutilized payment channels like debit or digital wallets to diversify options and boost conversion.
 
 ---
 
